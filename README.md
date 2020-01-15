@@ -11,3 +11,7 @@
 ### 이름 바꾸기
 * **MAC** : `F2`
 * **Windows** : `F2`
+
+### 줄 맞추기
+* **MAC** : `Command` + K + F
+* **Windows** : `Ctrl` + K + F
