@@ -5,4 +5,5 @@
 * **Windows** : `Alt` + 방향키 
 
 ### 한 줄 지우기
-* **MAC** : `Command` + `Shift` + `K`
+* **MAC** : `Command` + `Shift` + K
+* **Windows** : `Ctrl` + `Shift` + K
