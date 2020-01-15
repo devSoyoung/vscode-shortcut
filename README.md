@@ -7,3 +7,7 @@
 ### 한 줄 지우기
 * **MAC** : `Command` + `Shift` + K
 * **Windows** : `Ctrl` + `Shift` + K
+
+### 이름 바꾸기
+* **MAC** : `F2`
+* **Windows** : `F2`
