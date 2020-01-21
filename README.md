@@ -21,4 +21,4 @@
 ## 옵션 설정
 
 ### 자동 줄바꿈
-_Settings_ 에서 `WordWrap` 설정을 **on**으로 
+_Settings_ 에서 `WordWrap` 설정을 **on**으로 변경
